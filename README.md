@@ -26,3 +26,4 @@ achieves considerable high recognition rates on KDD99.
 
 # N.B 
 since the code is not well organized, I am still cleaning the notebook for this repo, I will upload it as soon as I finish.
+The paper is just published published in this december, we are still waiting for IEEE to uplaod to the IEEE Xplore data, we shall provide the link as soon as the paper get uplaoded there
