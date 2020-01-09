@@ -26,6 +26,8 @@ KDD99. The experimental results demonstrate that our proposed
 framework significantly outperforms the existing models and
 achieves considerable high recognition rates on KDD99.
 
+![MCDNN_architecture](https://user-images.githubusercontent.com/35916017/72088296-d5718200-3344-11ea-80dd-672cee579feb.png)
+
 ## Steps for running the code
 
 ### 1. Set up the environment
