@@ -1,6 +1,6 @@
-This repo contains all files required for the MCDNN implementation.
+**This repo contains all files required for the MCDNN implementation.**
 
-# Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security
+## Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security
 **Paper Abstract**
 
 
