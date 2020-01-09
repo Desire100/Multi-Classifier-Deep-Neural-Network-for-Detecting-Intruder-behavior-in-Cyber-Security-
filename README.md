@@ -1,4 +1,4 @@
-**This repo contains all files required and the steps for the MCDNN implementation.**
+**This repo contains all files required and the steps for the MCDNN  model implementation.**
 
 ## Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security
 **Paper Abstract**
@@ -26,7 +26,7 @@ KDD99. The experimental results demonstrate that our proposed
 framework significantly outperforms the existing models and
 achieves considerable high recognition rates on KDD99.
 
-## The MCDNN Architecture
+## The MCDNN Model Architecture
 ![architecture](https://user-images.githubusercontent.com/35916017/72090710-8bd76600-3349-11ea-985f-c28075c59f60.png)
 
 ## Steps for running the code
@@ -49,7 +49,7 @@ achieves considerable high recognition rates on KDD99.
 ## 4. Test and Evaluate the model
     Run the file named " Model_testing_and_evaluation.py"  
     
-## MCDNN Accuracy and Loss
+## MCDNN Model Accuracy and Loss
 ![accuracy](https://user-images.githubusercontent.com/35916017/72091249-af4ee080-334a-11ea-82d8-416c711304dd.png) ![loss](https://user-images.githubusercontent.com/35916017/72091295-cbeb1880-334a-11ea-89ac-b2fd292b3237.png)
 
 
