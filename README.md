@@ -1,5 +1,7 @@
+This repo contains all files required for the MCDNN implementation.
+
 # Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security
-### Paper Abstract
+**Paper Abstract**
 
 
 The security is becoming much more important due
@@ -24,6 +26,21 @@ KDD99. The experimental results demonstrate that our proposed
 framework significantly outperforms the existing models and
 achieves considerable high recognition rates on KDD99.
 
-# N.B 
-since the code is not well organized, I am still cleaning the notebook for this repo, I will upload it as soon as I finish.
-##### The paper is just published published in this december, we are still waiting for IEEE to uplaod to the IEEE Xplore data, we shall provide the link as soon as the paper get uplaoded there
+## Steps for running the code
+
+### 1. Set up the environment
+
+    Python3
+    Tensorflow
+    Numpy
+    Pandas
+    Scikit-learn
+
+### Data set analysis and preprocessing
+    Run the file named "Data_preprocesing"
+### Create and Train the model
+    Run the file named "model_creation_and_training"
+### Test and Evaluate the model
+    Run the file named "   
+
+
