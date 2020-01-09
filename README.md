@@ -50,7 +50,8 @@ achieves considerable high recognition rates on KDD99.
     Run the file named " Model_testing_and_evaluation.py"  
     
 #### MCDNN Accuracy and Loss
-![accuracy](https://user-images.githubusercontent.com/35916017/72091249-af4ee080-334a-11ea-82d8-416c711304dd.png)
+![accuracy](https://user-images.githubusercontent.com/35916017/72091249-af4ee080-334a-11ea-82d8-416c711304dd.png) ![loss](https://user-images.githubusercontent.com/35916017/72091295-cbeb1880-334a-11ea-89ac-b2fd292b3237.png)
+
 
 
 
