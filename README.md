@@ -32,7 +32,7 @@ achieves considerable high recognition rates on KDD99.
 ## Steps for running the code
 
 ### Procedure
-![process](https://user-images.githubusercontent.com/35916017/72089722-8416c200-3347-11ea-9cb5-fd2e538a81d5.png)
+![procedure](https://user-images.githubusercontent.com/35916017/72092201-cee70880-334c-11ea-8cd2-f9010958e122.png)
 
 ### 1. Set up the environment
 
