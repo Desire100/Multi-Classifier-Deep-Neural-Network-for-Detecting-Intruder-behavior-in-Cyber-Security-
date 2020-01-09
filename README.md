@@ -36,11 +36,11 @@ achieves considerable high recognition rates on KDD99.
     Pandas
     Scikit-learn
 
-### Data set analysis and preprocessing
+### 2. Data set analysis and preprocessing
     Run the file named "Data_preprocesing.py"
-### Create and Train the model
+### 3. Create and Train the model
     Run the file named "model_creation_and_training.py"
-### Test and Evaluate the model
+### 4. Test and Evaluate the model
     Run the file named " Model_testing_and_evaluation.py"  
 
 
