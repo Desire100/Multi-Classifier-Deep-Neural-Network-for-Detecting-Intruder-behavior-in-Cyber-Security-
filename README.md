@@ -26,9 +26,14 @@ KDD99. The experimental results demonstrate that our proposed
 framework significantly outperforms the existing models and
 achieves considerable high recognition rates on KDD99.
 
-![MCDNN_architecture](https://user-images.githubusercontent.com/35916017/72088296-d5718200-3344-11ea-80dd-672cee579feb.png)
+### The MCDNN Architecture
+![architecture](https://user-images.githubusercontent.com/35916017/72090710-8bd76600-3349-11ea-985f-c28075c59f60.png)
 
 ## Steps for running the code
+
+### Procedure
+![architecture](https://user-images.githubusercontent.com/35916017/72090710-8bd76600-3349-11ea-985f-c28075c59f60.png)
+
 
 ### 1. Set up the environment
 
@@ -44,5 +49,11 @@ achieves considerable high recognition rates on KDD99.
     Run the file named "model_creation_and_training.py"
 ### 4. Test and Evaluate the model
     Run the file named " Model_testing_and_evaluation.py"  
+    
+#### MCDNN Accuracy and Loss
+![accuracy](https://user-images.githubusercontent.com/35916017/72091249-af4ee080-334a-11ea-82d8-416c711304dd.png)
+
+![loss](https://user-images.githubusercontent.com/35916017/72091295-cbeb1880-334a-11ea-89ac-b2fd292b3237.png)
+
 
 
