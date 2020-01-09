@@ -37,10 +37,10 @@ achieves considerable high recognition rates on KDD99.
     Scikit-learn
 
 ### Data set analysis and preprocessing
-    Run the file named "Data_preprocesing"
+    Run the file named "Data_preprocesing.py"
 ### Create and Train the model
-    Run the file named "model_creation_and_training"
+    Run the file named "model_creation_and_training.py"
 ### Test and Evaluate the model
-    Run the file named "   
+    Run the file named " Model_testing_and_evaluation.py"  
 
 
