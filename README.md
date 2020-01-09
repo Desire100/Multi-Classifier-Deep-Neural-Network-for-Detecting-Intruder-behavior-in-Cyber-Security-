@@ -32,8 +32,7 @@ achieves considerable high recognition rates on KDD99.
 ## Steps for running the code
 
 ### Procedure
-![architecture](https://user-images.githubusercontent.com/35916017/72090710-8bd76600-3349-11ea-985f-c28075c59f60.png)
-
+![process](https://user-images.githubusercontent.com/35916017/72089722-8416c200-3347-11ea-9cb5-fd2e538a81d5.png)
 
 ### 1. Set up the environment
 
@@ -53,7 +52,6 @@ achieves considerable high recognition rates on KDD99.
 #### MCDNN Accuracy and Loss
 ![accuracy](https://user-images.githubusercontent.com/35916017/72091249-af4ee080-334a-11ea-82d8-416c711304dd.png)
 
-![loss](https://user-images.githubusercontent.com/35916017/72091295-cbeb1880-334a-11ea-89ac-b2fd292b3237.png)
 
 
 
