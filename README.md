@@ -1,7 +1,12 @@
+## Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security
+
 **This repo contains all files required and the steps for the MCDNN  model implementation.**
 
-## Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security
-**Paper Abstract**
+**N.B**  Since we are still waiting for IEEExplore to updload the paper to its database, the citation link will be provided in few coming months
+##### IEEE COPYRIGHT![IEEE-copyright](https://user-images.githubusercontent.com/35916017/72922985-0ca25300-3d89-11ea-8c81-c5b9e85fa7d8.png) 
+
+
+### Paper Abstract
 
 
 The security is becoming much more important due
