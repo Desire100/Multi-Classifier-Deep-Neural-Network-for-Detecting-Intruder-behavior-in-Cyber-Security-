@@ -2,7 +2,11 @@
 
 **This repo contains all files required and the steps for the MCDNN  model implementation.**
 
-**N.B** This [paper](https://github.com/Desire100/Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security-/blob/master/Paper.pdf) was published by [ICCWAMTIP 2019](https://waveletlab.org/) and we are still waiting for IEEExplore to updload our [paper](https://github.com/Desire100/Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security-/blob/master/Paper.pdf) to its database, the citation link will be provided in few coming months
+This is the  [paper](https://ieeexplore.ieee.org/document/9067548/authors#authors) and you can get its free pdf version [here](https://github.com/Desire100/Multi-Classifier-Deep-Neural-Network-for-Detecting-Intruder-behavior-in-Cyber-Security-/blob/master/Paper.pdf). It was published by [IEEE](https://ieeexplore.ieee.org/document/9067548/authors#authors) 
+
+#### Citation 
+
+D. Iradukunda, X. W. An and W. Ali, "Multi-Classifier Deep Neural Network for Detecting Intruder Behavior In Cyber Security," 2019 16th International Computer Conference on Wavelet Active Media Technology and Information Processing, Chengdu, China, 2019, pp. 373-377.
 
 ### Paper Abstract
 
